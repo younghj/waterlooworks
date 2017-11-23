@@ -1,0 +1,423 @@
+2G Robotics Inc
+360 Education Labs Inc
+500px
+A9.com (An Amazon Subsidiary)
+AMD
+ARUP
+ATS Automation Tooling Systems Inc
+Abe
+Accedo
+Achievers Inc
+ActionIQ
+AdHawk Microsystems
+AdRoll
+Adeptmind Inc
+Air Computing Inc
+Akindi Inc
+AlertDriving
+Altaeros Energies
+Amazon.com Inc
+American Express Canada Inc
+AppDirect Inc
+AppHelp
+AppZero
+Apple Inc
+Aquantia Corp
+ArcelorMittal
+Arctic Wolf Networks Inc
+Arcturus Networks Inc
+Argonne National Laboratory
+Arista Networks Inc
+Arylla Inc
+Aterica Health Inc
+Athos
+AudienceView Ticketing
+Audioworks Inc
+Autonomic
+Auvik Networks Inc.
+Awake Labs Inc
+Axonify Inc
+BBM
+BC Cancer Agency
+BDO Solutions Technology (formerly Systemgroup)
+BanaLogic Corporation
+Banana Stand
+Bank of America Merrill Lynch
+Bank of Canada
+Bank of Montreal
+Bell & Howell
+Bentley Systems
+BlackBerry
+Bloomberg
+BlueCat Networks
+Bombardier Inc
+Bond Brand Loyalty Inc
+Brachium Inc
+Bread Finance
+Broadway Technology LLC
+Brock Solutions Inc
+CA Technologies
+CAE
+CAMplete Solutions Inc
+CI Technologies Corporation
+CPP Investment Board
+Camis Inc
+Canadian Bank Note Company Limited
+Canadian Blood Services
+Canadian Imperial Bank of Commerce
+Canadian Tire Corporation Limited
+Capco
+Capcom
+Capital One
+Carbonite
+CareGo Technology Inc
+CareGuide Inc
+Carrot Inc
+CaseBank Technologies
+CaseWare International Inc
+Ceridian
+Chatkit
+Cinchy
+Cisco Meraki
+Cisco Systems Inc
+Citco Group
+CiteRight Inc
+City of Kitchener
+Clearbanc
+Clearpath Robotics Inc
+Climax Media
+Clio
+Cockroach Labs
+Cognite AS
+Cognitive Systems Corp
+Colleaga
+Collective Health Inc
+Compass
+Connected Lab Inc
+ContextLogic
+Correlation One
+Corso Innovations Corporation
+Coursera
+Crawford & Company
+Credit Karma Inc
+Curtiss-Wright Defense Solutions
+D2L
+D2X Capital
+DBRS Limited
+DEMATIC
+DF/Net Research
+DMTI Spatial
+DNAstack
+DRW Holdings Inc
+DarkMatter Canada Inc
+Darkhorse Analytics Inc
+Datadog Inc
+Dealer-FX
+Dejero Labs Inc
+Department of National Defence
+Derivative
+Descartes Systems Group Inc
+DoctorCare Inc
+DriverCheck Inc
+ESCRYPT
+EXFO Inc
+Edisoft
+Eidos Montreal
+Elucid Labs Inc
+Environics Analytics
+Epocal Inc
+Espial Group
+Ethoca Technologies Inc
+Evermight
+Evernote Corporation
+Evertz Microsystems Ltd
+Evichat Inc.
+Evinance
+FAIRVentures (A Fairfax Company)
+FCT
+Facebook
+FarmLead
+Fiix
+Finastra
+Finovertech
+Fitbit
+Fivetran Inc
+FleetCarma
+Flynn Group of Companies
+Focal Healthcare Inc
+Ford Motor Company of Canada Limited
+GTS
+GuardBot Inc
+Health Care Services International Inc
+HealthIM Inc
+Heap
+Helpful.com Inc
+Huawei Technologies Company Limited
+Hustle
+IBI Group Inc
+IBM Canada Limited
+IESO (Independent Electricity System Operator)
+ISARA Corporation
+Imagine Communications Corp
+InFlight Corporation
+InMoment
+Influitive Corporation
+InfoSec Global
+Infor Global Solutions
+Intel Corporation
+Intelex Technologies
+Interaptix Augmented Reality
+International Financial Data Services Canada Ltd
+Interset (formerly FileTrek)
+Intlvac
+Intrigue Media
+JUICE Mobile
+JetDiamond
+Jewlr
+KA Imaging
+Kaleidescape Inc
+Karos Health
+Keyhole
+Keysight Technologies
+Kii Mobile Technology
+Kik Interactive Inc
+Kinaxis
+Kinetic Cafe
+Kira Talent
+Klashwerks
+Kongsberg Geospatial
+LCBO - Liquor Control Board of Ontario
+LOGiQ3
+LeafLink Inc
+League
+Liburdi Automation Inc
+LimeBike
+LinkedIn Corporation
+Loblaw Companies Limited
+LoyaltyOne Inc
+Lumentum
+Lumotune Inc
+Lyft
+MCAP Inc
+MD Financial Management
+Mackenzie Investments
+Magnet Forensics Inc
+Manulife Financial
+Maple Leaf Foods
+MappedIn Inc
+Marsh & McLennan Companies Inc
+Match.com
+Mattel
+McAfee LLC
+Melian Labs Inc
+Microsoft  Corporation
+Millson Technologies Inc
+Mitre Media
+Mixmax Inc
+Multi-Health Systems Inc
+NASDAQ
+NCR Canada Ltd
+NOVX Systems Inc
+NVIDIA Corporation
+Nanoleaf Limited
+National Instruments Corporation
+Natural Resources Canada
+Neptec Design Group
+NerdWallet Inc
+Nextdoor
+Nokia
+Nomis Solutions Inc
+Nuance Communications Inc
+Nuvation Research Corporation
+Nymi Inc
+OANDA (Canada) Corporation ULC
+OCTOPUZ
+OLAP Vision
+Office of the Auditor General of Canada
+OnCorp Direct Inc
+Ontario Die International Inc
+Ontario Institute for Cancer Research
+Ontario Ministry of Energy
+Ontario Power Generation Inc
+Open Text Corporation
+Optimity
+OptumSoft Inc
+Oracle Corporation
+Orbis Communications Inc
+P & P Optica Inc.
+PIXLEE
+PVelocity Inc
+PagerDuty
+Palette
+Peekapak
+Peraso Technologies Inc
+Periscope Data
+PerkinElmer Inc
+Perpetua Labs
+Petuum Inc
+Pitstop
+Pivotal Labs
+Pleora Technologies Inc
+Polar
+PostBeyond Inc
+Pratt & Whitney Canada Corp
+Progressly
+Providius Corp
+Public Safety Canada
+QRA Corp
+QuickTapSurvey created by TabbleDabble Inc.
+Quizlet LLC
+RAVE Media Inc
+RBC Financial Group
+Raven Telemetry
+Rimeto LLC
+Ritual
+Rockwell Collins
+Rocscience Inc
+Ross Video Limited
+Royal Canadian Mint
+Rubikloud Technologies
+SAMSUNG
+SAP Canada Inc
+SMART Technologies
+SPS Commerce Inc
+SSIMWAVE INC.
+Salesforce.com Inc
+Sandvine Incorporated
+Scotiabank
+Seer Aerospace Inc
+Sensibill
+Set Scouter Inc
+Shaw Communications Inc
+Shippo
+Shogun Inc
+Shop Bonsai
+Shoplogix Inc
+Simon Fraser University
+SkyWatch
+Smile.io
+Snap Inc
+SnapTravel
+Snowflake Computing Inc
+Solace Systems Inc
+Solink Corporation
+Sony Creative Software
+Sony Interactive Entertainment
+Sortable
+Spatial Systems
+SpotOn Computing
+Sprout
+Square Inc
+StackAdapt
+State Space Labs
+SugarCRM Inc
+Swing Education
+Symantec Corp
+Synaptive Medical
+Synchro Engineering Limited
+Syndesus
+TD Bank Group
+TELUS Communications Company
+TELUS Corporation
+TELUS Health
+Tableau Software
+Takara Gaming Solutions Limited
+Tangam Systems Inc
+Taplytics
+Teledyne DALSA
+Tenstorrent
+Terrene
+Tesla Motors
+Texas Instruments Inc
+Thales Canada
+Thalmic Labs
+The Chan Zuckerberg Initiative
+The Co-operators
+The Economical Insurance Group
+The FreeBSD Foundation
+The Great-West Life Assurance Company
+The Home Depot Canada
+The League
+The Meet Group
+TheRedPin Inc
+Think Research Corp
+Thomson Reuters
+Thornhill Medical
+Tigercat International Inc
+Tinfoil Security
+Toast Inc
+TradeRev
+Transnomis Solutions Inc.
+Trend Micro Inc
+TribalScale Inc
+Trifacta
+Tulip Retail
+TunnelBear Inc
+Tuq
+TypeSift
+US Mobile
+UXP Systems Inc.
+Uber
+Ubisoft Entertainment Inc
+Uken Games
+Ultimate Software
+UniPrint.net
+Unitron
+Universe
+University of Toronto
+University of Waterloo
+VIQ Solutions Inc
+VIZIYA
+Vatic Labs
+Veeva Systems
+Verity Studios AG
+Versapay Corporation
+Vida Health
+Videostream
+Vidyard
+Vineti
+Visier Inc
+Vision Critical Inc
+WISE Systems
+Waterloo Maple Inc
+Wave Accounting Inc
+Wealthsimple
+WeddingWire Inc
+WhatsApp Inc
+XE.com
+Xesto Inc
+Yahoo! Inc.
+Yazabi
+Yelp
+Yext
+Z1 LLC
+Zaber Technologies Inc
+Zanbato Group LLC
+Zazzle Inc
+Zeebarf
+Zeitspace Inc
+Zenith Insurance Company (A Fairfax Company)
+Zinata
+Zugata
+Zynga Inc
+ecobee
+eleven-x
+energyX Solutions Inc
+rBUX Inc
+reebee Inc
+theScore Inc
+themidgame Inc
+
+focal systems
+openai
+elementai
+SigOpt Inc
+
+integrate.ai
+Invenia
+MindBridge
+Crowdcare
+Cyclica
+shopify
+kindred
+deeplearni.ng
